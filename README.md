@@ -20,7 +20,7 @@ Then, install the dependencies:
 Make a [Replicate](https://replicate.com) account and set your tokens:
 
 ```
-export REPLICATE_APIT_TOKEN=<token>
+export REPLICATE_API_TOKEN=<token>
 ```
 
 ## Run it!
