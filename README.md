@@ -2,7 +2,11 @@
 
 Writes nice file names for your images.
 
-https://twitter.com/charliebholtz/status/1724815159590293764
+Run it in the background to never have to see `<Screenshot 2023-12-20 at 7.30.01 PM.png>` again.
+
+Namedrop also adds a meta attribute to your filename so you don't have to worry about it running twice on the same file.
+
+https://x.com/charliebholtz/status/1737667912784134344?s=20
 
 ## Setup
 
