@@ -20,8 +20,7 @@ Then, install the dependencies:
 Make a [Replicate](https://replicate.com) account and set your tokens:
 
 ```
-export OPENAI_API_KEY=<token>
-export ELEVENLABS_API_KEY=<eleven-token>
+export REPLICATE_APIT_TOKEN=<token>
 ```
 
 ## Run it!
